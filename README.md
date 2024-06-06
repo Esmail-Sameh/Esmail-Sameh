@@ -1,18 +1,13 @@
 <h1 align="center">Hey There I'm Esmail 👋</h1>
 <h3 align="center">Highly motivated software developer</h3>
-## Hi there 👋
 
-<!--
-**Esmail-Sameh/Esmail-Sameh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- About Me Section -->
+<div>
+<h3>
+<img src="https://media.giphy.com/media/ABiB3kRDZ9HQXsmb7b/giphy.gif" width="30">
+  About Me:
+</h3>
+  </div>
+  <img width="350" height="201.25" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" />
+- 👋 Hi there!, I am Esmail Sameh, student in I-Tech school following the P-Tech model and Highly motivated software developer
+<br />
