@@ -14,7 +14,7 @@
   About Me:
 </h3>
   </div>
-  <img width="300" height="150.25" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" />
+  <img width="350" height="200.25" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" />
 - 👋 Hi there!, I am Esmail Sameh, student in I-Tech school following the P-Tech model and Highly motivated software developer
 <br />
 
