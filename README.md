@@ -10,17 +10,21 @@
 <!-- About Me Section -->
 <div>
 <h3>
-<img src="https://media.giphy.com/media/ABiB3kRDZ9HQXsmb7b/giphy.gif" width="20">
+<img src="https://media.giphy.com/media/ABiB3kRDZ9HQXsmb7b/giphy.gif" width="30">
   About Me:
 </h3>
   </div>
-  <img width="350" height="201.25" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" />
+  <img width="300" height="150.25" align="right" alt="Github" src="https://github.githubassets.com/images/modules/profile/profile-first-issue-dark.svg" />
 - 👋 Hi there!, I am Esmail Sameh, student in I-Tech school following the P-Tech model and Highly motivated software developer
 <br />
-<br />
+
+
 <!-- Languages & Tools Section -->
 <br />
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left" >
+  <img src="https://media.giphy.com/media/ABiB3kRDZ9HQXsmb7b/giphy.gif" width="30">
+  Languages and Tools:
+</h3>
 <p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="30" height="30"/> 
 </a> 
 <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> 
