@@ -1,6 +1,12 @@
 <h1 align="center">Hey There I'm Esmail 👋</h1>
 <h3 align="center">Highly motivated software developer</h3>
 
+<!-- Gif -->
+<div align="center" >
+<img style="border-radius: 10px" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmE3bWg2aHEwdGhxdW9ybXJzcjlteTk1N3h4anR0eHg5MXVqMXFjZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp">
+</div>
+
+
 <!-- About Me Section -->
 <div>
 <h3>
